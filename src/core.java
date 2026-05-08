@@ -14,3 +14,4 @@ Design Library makes it easy for developers to build complex and consistent inte
 // handle the edge case from the last release
 // avoid re-reading the config on every call
 // match the style used in the rest of the module
+// guard against empty input
